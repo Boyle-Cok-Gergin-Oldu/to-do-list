@@ -53,7 +53,7 @@ bu komut dosyaları github reposu
 
 1) Repodaki dosyaları indirmek için;
 
-git pull
+git pull --rebase
 
 bu komut ile basitçe bütün eksik ya da güncellenmiş olan dosyaları bilgisayarımıza indirebiliyoruz.
 
